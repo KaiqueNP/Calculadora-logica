@@ -20,6 +20,10 @@ Uma calculadora de lógica proposicional desenvolvida para facilitar o entendime
 - Exibição do resultado da operação lógica selecionada.
 - Histórico das operações realizadas durante a sessão.
 
+## 🌐 Acesse o Projeto Online
+
+🔗 [Clique aqui para ver a Calculadora Lógica funcionando](https://kaiquenp.github.io/Calculadora-logica/)
+
 ## 🚀 Como Utilizar
 
 1. Clone o repositório:
